@@ -1,0 +1,27 @@
+.bg-img-home {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  min-height: 100vh;
+  background-size: cover;
+  font-family: 'roboto';
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 30px;
+}
+.head {
+  font-size: 38px;
+}
+.para {
+  font-size: 22px;
+}
+
+.button-el {
+  background-color: rgb(82, 82, 241);
+  border: none;
+  padding: 10px;
+  border-radius: 11px;
+  width: 120px;
+  height: 38px;
+}
